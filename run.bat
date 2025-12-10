@@ -26,6 +26,7 @@ echo ========================================
 echo.
 
 REM Run the application
-"venv\Scripts\python.exe" drowsiness_yawn_nolibdlib.py
+Python drowsiness_yawn_nolibdlib.py
 
 pause
+
